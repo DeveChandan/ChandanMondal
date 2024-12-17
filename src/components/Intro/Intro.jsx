@@ -30,7 +30,7 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hy! I Am</span>
           <span>Chandan Mondal</span>
           <span>
-          Experienced Frontend,Backend Developer,web designer & SAP ABAP Consultant Offering Quality Services
+          Experienced Frontend,Backend Developer,Android & ios App , web designer & SAP ABAP Consultant Offering Quality Services
           </span>
         </div>
         <Link to="contact" smooth={true} spy={true}>
